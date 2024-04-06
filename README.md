@@ -1,6 +1,6 @@
 # BigQuery Table Comparison Flask API  
 
-**One-sentence summary:** Python-based utility to automate the comparison of two BigQuery tables, exposed as a Flask API. Identifies mismatched data, schema discrepancies, added/deleted rows, and validates table existence and key uniqueness.
+Python-based utility to automate the comparison of two BigQuery tables, exposed as a Flask API. Identifies mismatched data, schema discrepancies, added/deleted rows, and validates table existence and key uniqueness.
 
 
 ## Key Features
