@@ -46,5 +46,6 @@ bash build_venv.sh
     "compare_columns": ["column1", "column2"]
 }
 ```
-
+## To Do
+* add option to ouput to a bigquery table
 
