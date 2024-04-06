@@ -17,10 +17,10 @@
 * Google Cloud BigQuery Python client library (`google-cloud-bigquery`)
 * Access to a Google Cloud Project with BigQuery API enabled
 
-## Installation
+## Installation - change to the correct python version
 
 ```bash
-pip install -r requirements.txt
+bash build_venv.sh 
 ```
 ## Usage
 
